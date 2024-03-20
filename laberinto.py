@@ -2,8 +2,8 @@
 #Carlos Delgadillo, Sebastian Diaz, Angel Ferreira
 
 import random
-FILAS = 5
-COLUMNAS = 5
+FILAS = 6
+COLUMNAS = 6
 META_FILA = FILAS - 1
 META_COLUMNA = COLUMNAS - 1
 def main():
